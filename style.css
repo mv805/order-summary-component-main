@@ -1,6 +1,6 @@
 html {
-    background: url(images/pattern-background-desktop.svg) top center repeat-x;
-    background-size: fill;
+    background: url(images/pattern-background-desktop.svg) no-repeat;
+    background-size: 100vw 50vh;
     background-color: #e0e8ff;
     font-family: 'Red Hat Display', sans-serif;
 }
@@ -32,8 +32,8 @@ body {
 }
 
 .hero-img {
-    height: 100%;
     width: 100%;
+
 }
 
 .card-content {
