@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-css-and-flexbox-CxiyqFS2K](https://www.frontendmentor.io/solutions/order-summary-css-and-flexbox-CxiyqFS2K)
 - Live Site URL: [https://mv805.github.io/order-summary-component-main/](https://mv805.github.io/order-summary-component-main/)
 
 ## My process
