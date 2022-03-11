@@ -12,7 +12,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -24,13 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![](./screenshot.JPG)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://mv805.github.io/order-summary-component-main/](https://mv805.github.io/order-summary-component-main/)
 
 ## My process
 
@@ -44,5 +42,5 @@ This summary menu was accomplished with a flexbox layout and media query element
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Matt V.](https://mv805.github.io)
 - Frontend Mentor - [@mv805](https://www.frontendmentor.io/profile/mv805)
